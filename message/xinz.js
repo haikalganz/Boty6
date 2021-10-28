@@ -1288,7 +1288,7 @@ _Untuk durasi lebih dari batas disajikan dalam bentuk link_`, msg)
                         const captionisu = `┏┉⌣ ┈̥-̶̯͡..̷̴✽̶┄┈┈┈┈┈┈┈┈┈┈┉┓
 ┆ *YOUTUBE PLAYMP4*
 └┈┈┈┈┈┈┈┈┈┈┈⌣ ┈̥-̶̯͡..̷̴✽̶⌣ ✽̶
-
+LG
 *Data Berhasil Didapatkan!*
 \`\`\`▢ Title : ${title}\`\`\`
 \`\`\`▢ Ext : MP4\`\`\`
